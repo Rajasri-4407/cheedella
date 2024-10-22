@@ -2,7 +2,7 @@ public class Raji
 {
       public static void main(string[] args)
       {
-           System.out.println("my name is raji");
+           System.out.print("my name is raji");
        }
 }
  
